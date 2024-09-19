@@ -1,5 +1,5 @@
 import uuid
-ftom typing import Tuple
+from typing import Tuple
 
 import openai
 
